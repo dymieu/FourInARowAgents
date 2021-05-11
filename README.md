@@ -8,3 +8,4 @@
 MINMAX.py
 使用minmax算法实现了此智能体，搜索深度为2.
 已经可以较快战胜网站上practice-bot以及competition-bot
+
